@@ -1,0 +1,24 @@
+.canvas {
+	width: 500px;
+	height: 500px;
+	position: relative;
+	border:1px solid #000;
+}
+
+.snake_pixel {
+	display: block;
+	background: #000;
+	position: absolute;
+}
+
+/* .snake_pixel.snake_head {
+	background: url(logo.svg) no-repeat;
+} */
+
+.apple {
+	display: block;
+	background: red;
+	width: 10px;
+	height: 10px;
+	position: absolute;
+}

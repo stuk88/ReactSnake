@@ -1,0 +1,423 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"game",
+				"start_game_config"
+			],
+			[
+				"is",
+				"isGrabApple"
+			],
+			[
+				"app",
+				"apple_position"
+			],
+			[
+				"get",
+				"getRandomCleanPixel"
+			],
+			[
+				"whi",
+				"white_pixels_dict"
+			],
+			[
+				"snk",
+				"snake_pixel_size"
+			],
+			[
+				"sna",
+				"snake_pixel_size"
+			],
+			[
+				"game_",
+				"game_not_over"
+			],
+			[
+				"snake",
+				"snake_cords"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"abs",
+				"absolute"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"hover",
+				"hover_info-new"
+			],
+			[
+				"sub",
+				"sub_dir"
+			],
+			[
+				"su",
+				"sub_data"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"sscss",
+				"Set Syntax: CSS"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"sshtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"snipethtml",
+				"Snippet: HTML page for Sample App 1 - hello world"
+			],
+			[
+				"html",
+				"Snippet: html"
+			]
+		],
+		"width": 504.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/Projects/eco-bill-react/src/App.js",
+		"/E/Projects/eco-bill-react/src/Components/top_bar/index.js",
+		"/E/Projects/learn-react/react-snake/src/game.js",
+		"/E/Projects/pais-arena/panos/pano_1.1l/flash/tour_1-4L.html",
+		"/E/Projects/pais-arena/panos/pano_1.1r/flash/tour_1-4.html",
+		"/E/Projects/pais-arena/panos/pano_1.2l/flash/tour_1-11L.html",
+		"/E/Projects/pais-arena/panos/pano_1.2r/flash/tour_1-11.html",
+		"/E/Projects/pais-arena/panos/pano_1.3l/flash/tour_1-18L.html",
+		"/E/Projects/pais-arena/panos/pano_1.3r/flash/tour_1-18.html",
+		"/E/Projects/pais-arena/panos/pano_10.1/flash/tour_10-4.html",
+		"/E/Projects/pais-arena/panos/pano_10.2/flash/tour_10-11.html",
+		"/E/Projects/pais-arena/panos/pano_10.3/flash/tour_10-19.html",
+		"/E/Projects/pais-arena/panos/pano_11.1l/flash/tour_11-4.html",
+		"/E/Projects/pais-arena/panos/pano_11.1r/flash/tour_11-5L.html",
+		"/E/Projects/pais-arena/panos/pano_11.2l/flash/tour_11-12.html",
+		"/E/Projects/pais-arena/panos/pano_11.2r/flash/tour_11-12L.html",
+		"/E/Projects/pais-arena/panos/pano_11.3l/flash/tour_11-18.html",
+		"/E/Projects/pais-arena/panos/pano_11.3r/flash/tour_11-18L.html",
+		"/E/Projects/pais-arena/panos/pano_12.1l/flash/tour_12-4.html",
+		"/E/Projects/pais-arena/panos/pano_12.1r/flash/tour_12-4R.html",
+		"/E/Projects/pais-arena/panos/pano_12.2l/flash/tour_12-11.html",
+		"/E/Projects/pais-arena/panos/pano_12.2r/flash/tour_12-11R.html",
+		"/E/Projects/pais-arena/panos/pano_12.3l/flash/tour_12-18.html",
+		"/E/Projects/pais-arena/panos/pano_12.3r/flash/tour_12-18R.html",
+		"/E/Projects/pais-arena/panos/pano_2.1/flash/tour_2-4.html",
+		"/E/Projects/pais-arena/panos/pano_2.2/flash/tour_2-11.html",
+		"/E/Projects/pais-arena/panos/pano_2.3/flash/tour_2-19.html",
+		"/E/Projects/pais-arena/panos/pano_3.1/flash/tour_3-4.html",
+		"/E/Projects/pais-arena/panos/pano_3.2/flash/tour_3-11.html",
+		"/E/Projects/pais-arena/panos/pano_3.3/flash/tour_3-19.html",
+		"/E/Projects/pais-arena/panos/pano_4.1/flash/tour_4-4.html",
+		"/E/Projects/pais-arena/panos/pano_4.2/flash/tour_4-11.html",
+		"/E/Projects/pais-arena/panos/pano_4.3/flash/tour_4-19.html",
+		"/E/Projects/pais-arena/panos/pano_5.1l/flash/tour_5-4.html",
+		"/E/Projects/pais-arena/panos/pano_5.1r/flash/tour_5-4R.html",
+		"/E/Projects/pais-arena/panos/pano_5.2l/flash/tour_5-12.html",
+		"/E/Projects/pais-arena/panos/pano_5.2r/flash/tour_5-11R.html",
+		"/E/Projects/pais-arena/panos/pano_5.3l/flash/tour_5-19.html",
+		"/E/Projects/pais-arena/panos/pano_5.3r/flash/tour_5-19R.html",
+		"/E/Projects/pais-arena/panos/pano_6.1l/flash/tour_6-4.html",
+		"/E/Projects/pais-arena/panos/pano_6.1r/flash/tour_6-4R.html",
+		"/E/Projects/pais-arena/panos/pano_6.2l/flash/tour_6-11.html",
+		"/E/Projects/pais-arena/panos/pano_6.2r/flash/tour_6-11R.html",
+		"/E/Projects/pais-arena/panos/pano_6.3l/flash/tour_6-19.html",
+		"/E/Projects/pais-arena/panos/pano_6.3r/flash/tour_6-19R.html",
+		"/E/Projects/pais-arena/panos/pano_7.1l/flash/tour_7-4L.html",
+		"/E/Projects/pais-arena/panos/pano_7.1r/flash/tour_7-4.html",
+		"/E/Projects/pais-arena/panos/pano_7.2l/flash/tour_7-11L.html",
+		"/E/Projects/pais-arena/panos/pano_7.2r/flash/tour_7-11.html",
+		"/E/Projects/pais-arena/panos/pano_7.3l/flash/tour_7-19L.html",
+		"/E/Projects/pais-arena/panos/pano_7.3r/flash/tour_7-19.html",
+		"/E/Projects/pais-arena/panos/pano_8.1/flash/tour_8-4.html",
+		"/E/Projects/pais-arena/panos/pano_8.2/flash/tour_8-11.html",
+		"/E/Projects/pais-arena/panos/pano_8.3/flash/tour_8-19.html",
+		"/E/Projects/pais-arena/panos/pano_9.1/flash/tour_9-4.html",
+		"/E/Projects/pais-arena/panos/pano_9.2/flash/tour_9-11.html",
+		"/E/Projects/pais-arena/panos/pano_9.3/flash/tour_9-19.html",
+		"/E/Projects/pais-arena/panos/pano_center/flash/tour_center.html",
+		"/E/Projects/pais-arena/panos/pano_g10/flash/tour_010.html",
+		"/E/Projects/pais-arena/panos/pano_g11l/flash/tour_011-1.html",
+		"/E/Projects/pais-arena/panos/pano_g11r/flash/tour_011-2.html",
+		"/E/Projects/pais-arena/panos/pano_g12l/flash/tour_012-1.html",
+		"/E/Projects/pais-arena/panos/pano_g12r/flash/tour_012-2.html",
+		"/E/Projects/pais-arena/panos/pano_g1l/flash/tour_01-2.html",
+		"/E/Projects/pais-arena/panos/pano_g1r/flash/tour_01-1.html",
+		"/E/Projects/pais-arena/panos/pano_g2/flash/tour_02.html",
+		"/E/Projects/pais-arena/panos/pano_g3/flash/tour_03.html",
+		"/E/Projects/pais-arena/panos/pano_g4/flash/tour_04.html",
+		"/E/Projects/pais-arena/panos/pano_g5l/flash/tour_05-1.html",
+		"/E/Projects/pais-arena/panos/pano_g5r/flash/tour_05-2.html",
+		"/E/Projects/pais-arena/panos/pano_g6l/flash/tour_06-1.html",
+		"/E/Projects/pais-arena/panos/pano_g6r/flash/tour_06-2.html",
+		"/E/Projects/pais-arena/panos/pano_g7l/flash/tour_07-1.html",
+		"/E/Projects/pais-arena/panos/pano_g7r/flash/tour_07-2.html",
+		"/E/Projects/pais-arena/panos/pano_g8/flash/tour_08.html",
+		"/E/Projects/pais-arena/panos/pano_g9/flash/tour_09.html",
+		"/E/Projects/pais-arena/panos/pano_vip/flash/tour_VIP.html",
+		"/D/Dropbox/usb flash card/Gamep project/312024920/Source Code - GamesPortal/js/agent.php",
+		"/E/Projects/learn-react/react-snake/src/apple.js",
+		"/E/Projects/learn-react/react-snake/src/snake.js",
+		"/E/Projects/learn-react/react-snake/src/App.js",
+		"/E/Projects/learn-react/react-snake/src/game.css",
+		"/E/Projects/eco-bill-react/src/Components/top_bar/style.css",
+		"/E/Projects/eco-bill-react/src/Components/menu/index.js",
+		"/E/Projects/eco-bill-react/src/Components/menu/style.css",
+		"/E/Projects/eco-bill-react/src/index.js",
+		"/E/Projects/eco-bill-react/src/Components/main_screen/index.js",
+		"/E/Projects/eco-bill-react/public/index.html",
+		"/E/Projects/eco-bill-react/src/css/index.css",
+		"/D/Dropbox/usb flash card/Gamep project/312024920/Source Code - GamesPortal/inc/comments.php",
+		"/D/Dropbox/usb flash card/Gamep project/312024920/Source Code - GamesPortal/inc/add-server.php",
+		"/E/Projects/eco-bill-react/src/css/font-awesome.css",
+		"/E/Projects/eco-bill-react/src/index.css",
+		"/E/Projects/eco-bill-react/src/App.test.js",
+		"/E/Projects/React_course/hello-world/src/index.js",
+		"/E/Projects/React_course/hello-world/public/index.html",
+		"/E/Projects/React_course/hello-world/src/App.js",
+		"/E/Projects/React_course/hello-world/src/HelloWorld.js",
+		"/E/Projects/React_course/index.html",
+		"/E/Projects/React_course/scripts/hello.js",
+		"/C/Users/stas/config.bashrc",
+		"/C/Users/stas/.bash_profile",
+		"/C/Users/stas/AppData/Local/Temp/scp47602/sale.html",
+		"/E/Projects/facebook_rents/index.html",
+		"/C/Users/stas/AppData/Local/Temp/scp32965/.htaccess",
+		"/E/Projects/pais-arena/test.svg",
+		"/E/Projects/macabi-haifa/index.html",
+		"/C/Users/stas/AppData/Local/Temp/scp08894/sale.html",
+		"/C/Users/stas/AppData/Local/Temp/scp31452/sale.php",
+		"/E/Projects/pais-arena/style.css",
+		"/E/Projects/pais-arena/README.md",
+		"/E/Projects/pais-arena/imagemap.svg",
+		"/E/Projects/pais-arena/panos/script.js",
+		"/E/Projects/macabi-haifa/imagemap3.svg",
+		"/E/Projects/macabi-haifa/imagemap.svg",
+		"/E/Projects/macabi-haifa/script.js",
+		"/C/Users/stas/AppData/Local/Temp/Rar$DIa0.244/algoritmika.js",
+		"/C/Users/stas/AppData/Local/Temp/Rar$DIa0.592/algoritmika.js",
+		"/D/Dropbox/Documents/MessageList.asp",
+		"/E/Projects/macabi-haifa/%1"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"E:\\Projects\\pais-arena\\panos",
+			"E:\\Projects\\pais-arena"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" so.addParam(\"wmode\", \"direct\"); ",
+			"isGrabApple",
+			"state",
+			"this.",
+			"remove_from_snake_tail",
+			"snake",
+			"Snake",
+			"j",
+			"i",
+			"let",
+			"this.game_over",
+			"game_over",
+			"remove_from_end",
+			"game_not_over",
+			"this.game_not_over",
+			"this.state.direction",
+			"game_not_over",
+			"outer",
+			"this.setState({game_not_over: false});",
+			"move_snake",
+			"this.canvas",
+			"this.refs",
+			"game",
+			"App",
+			"65",
+			"className",
+			"class",
+			"TopBar",
+			"main",
+			"Main",
+			"div",
+			".container",
+			"/sale/?add-",
+			"sale",
+			".container .map>.fullscreen",
+			"\n    ",
+			";;",
+			"open_pano",
+			"vip",
+			"center",
+			"style-it00d356",
+			"it00d356",
+			"http://stadium.mhaifafc.com/tickets",
+			"vcmailhimp_ajaxurl",
+			"h2",
+			"class=\"font_2\" style=\"text-align: center; font-size: 24px;\"",
+			"</span></span></span></span>",
+			"<span style=\"font-size:24px;\"><span class=\"color_11\"><span style=\"font-family:spinnaker,sans-serif\"><span style=\"font-weight:bold\">",
+			".container .info .pano.second",
+			"fullscreen",
+			"\n",
+			" \n",
+			"1005",
+			"fill=\"#6FBE44\" ",
+			"favico",
+			"yt",
+			"ytimg",
+			"_popup_data",
+			"po_data",
+			"admin-ajax",
+			"get_next_tile_state",
+			"clicked",
+			"גלריה",
+			"hover",
+			"background",
+			"row_info",
+			"get_folder_line_number",
+			"row_info",
+			"info",
+			"line",
+			"block\"",
+			"sub_dir",
+			"}.",
+			"\"\n",
+			"768",
+			"map"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			" so.addParam(\"wmode\", \"transparent\"); "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"stl",
+				"/E/Projects/pais-arena/style.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
