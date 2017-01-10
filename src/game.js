@@ -132,6 +132,7 @@ componentDidMount() {
       if(x == this.state.apple_position.x && y ==  this.state.apple_position.y) {
          this.setState({points: this.state.points+50});
          this.snake_size++;
+         this.snake_speed /= 1.2;
          this.placeApple();
       }
    }
@@ -144,9 +145,9 @@ componentDidMount() {
    getRandomCleanPixel() {
       let x,y;
       do {
-         x = ((this.refs.canvas.offsetWidth * Math.random())/this.snake_pixel_size << 0)*this.snake_pixel_size;
-         y = ((this.refs.canvas.offsetHeight * Math.random())/this.snake_pixel_size << 0)*this.snake_pixel_size;
-      } while( _.find(this.state.snake_cords, (o) => o.x == x && o.y == y) != undefined);
+         x = (((this.refs.canvas.offsetWidth * Math.random())/this.snake_pixel_size << 0)*this.snake_pixel_size) - this.snake_pixel_size;
+         y = (((this.refs.canvas.offsetHeight * Math.random())/this.snake_pixel_size << 0)*this.snake_pixel_size) - this.snake_pixel_size;
+      } while( _.find(this.state.snake_cords, (o) => (o.x == x && o.y == y) != undefined) );
       return {x:x, y:y};
    }
 
